@@ -1,16 +1,25 @@
-# education
+# Education _**app**_
 
-A new Flutter project.
+## En esta sección vamos a crear el diseño de una plataforma educativa.
 
-## Getting Started
+[![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Education app](https://i.ytimg.com/vi/ucwBcTgxyME/maxresdefault.jpg)
 
-This project is a starting point for a Flutter application.
+## **_Objetivos_**
 
-A few resources to get you started if this is your first Flutter project:
+Crear una aplicación que me explique de una manera sencilla y fácil el uso de las listas en una app😁
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Contenidos por ver...
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ListView:Bulider y Separated.
+- ListTitles
+- HomeScreen.
+- AppRouter.
+
+_y_ todo esto en **_FLUTTER_**
+![Flutter apps](https://docs.flutter.dev/assets/images/dash/dash-fainting.gif)
+
+Para proximos paso... Visite la carpeta md🤭
