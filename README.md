@@ -14,12 +14,12 @@ Crear una aplicación que me explique de una manera sencilla y fácil el uso de 
 
 ### Contenidos por ver...
 
-- ListView:Bulider y Separated.
+- ListView: Builder y Separated.
 - ListTitles
 - HomeScreen.
 - AppRouter.
 
-_y_ todo esto en **_FLUTTER_**
+_y_ todo esto en **_FLUTTER_** :sunglasses: ...
 
 ![Flutter apps](https://docs.flutter.dev/assets/images/dash/dash-fainting.gif)
 
